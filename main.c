@@ -1,4 +1,4 @@
-#iclude <stdio.h>
+#include <stdio.h>
 
 void imprimirBob(){
 	printf("Eu sou o Bob!");
@@ -6,7 +6,7 @@ void imprimirBob(){
 
 int main(){
 	
-	imprimirBob(;
+	imprimirBob();
 	
 	return 0;
 }
